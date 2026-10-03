@@ -1,0 +1,16 @@
+{
+    "name": "prestamos/equipo",
+    "description": "Parcial2-TPI",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Prestamos\\Equipo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur"
+        }
+    ],
+    "require": {}
+}
